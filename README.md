@@ -6,7 +6,7 @@ Linux文件系统模拟
 * 开发环境：eclipse+mysql+tomcat
 * 使用技术：jsp+servlet+ajax+jdbc
 * 使用场景：模拟操作系统的文件系统
-* 部署环境：ubuntu14+tomcat7+jdk8+mysql5.5(地址http://www.justxzm.cn:8081/MyShell)
+* 部署环境：ubuntu14+tomcat7+jdk8+mysql5.5
 
 > 文件说明	 
 
